@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: project_1.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+description: <b>In the telecommunication industry,</b> customer churn is one of the biggest concerns for companies. Losing customers can lead to a significant impact on the revenue and overall profitability of a company. In this project, we aim to build a predictive model that can help telecommunication companies identify customers who are likely to churn.The project will involve analyzing a dataset of customer information such as demographics, usage patterns, and payment history, to build a machine learning model that can predict customer churn. We will explore various machine learning algorithms, such as logistic regression, decision trees, and random forests, to find the most accurate model.
+---
